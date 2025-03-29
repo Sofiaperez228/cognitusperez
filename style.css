@@ -1,0 +1,23 @@
+header {
+    display: flex ;
+    justify-content: center;
+    border: 1rem solid #000;
+}
+ 
+
+#pageImage {
+    height: 10rem;
+}
+header #pageimage { border-radius: 50% ;
+}
+
+.gero {
+    border: 0.4rem solid #b45151;
+}
+
+.gero {
+    height: 5rem  ;
+}
+.plantas {
+    border: 1rem rgb(7, 105, 7);
+}
